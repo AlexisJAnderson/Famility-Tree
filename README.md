@@ -6,6 +6,16 @@ This is the Famility Tree of TSP. I will try to keep this as up to date as i pos
 
 #### 14.12.2020
 ```diff
-+ FferrisFuryWife - CaddyDaddy
+New:
++ FferrisFuryWife + CaddyDaddy
++ Gorgoda + Angie
+
+Updated:
+| Boe + Alluvium
++   ├── Kirrus
++   └── Ben
+
+
+Removed:
 - Jemmay - Tabula
 ```
